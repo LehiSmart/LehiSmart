@@ -13,7 +13,7 @@ I'm currently a computer science student at Aberystwyth university. <br>I love w
 ![](https://github-profile-trophy.vercel.app/?username=LehiSmart&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LehiSmart&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
