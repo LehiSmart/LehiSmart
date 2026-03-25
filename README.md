@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 * **[Fullstack Recipe Finder](https://github.com/LehiSmart/fullstack-recipe)**: A full-stack application that solves the hassle of finding food recipes with leftover ingredients. 
   * *Key Achievement:* Implementing AI to come up with creative recipes rather than rely on the API.
-* **[Carbon Tracker]https://github.com/LehiSmart/CarbonTracker**: A web app i built that uses satellite data, paired with AI to determin the total amount of carbon stored in a given area.
+* **[Carbon Tracker](https://github.com/LehiSmart/CarbonTracker)**: A web app i built that uses satellite data, paired with AI to determin the total amount of carbon stored in a given area.
   * *Key Achievement:* Gathering data from any and all available sources.
