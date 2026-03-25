@@ -32,3 +32,9 @@ Here are some ideas to get you started:
   * *Key Achievement:* Implementing AI to come up with creative recipes rather than rely on the API.
 * **[Carbon Tracker](https://github.com/LehiSmart/CarbonTracker)**: A web app i built that uses satellite data, paired with AI to determin the total amount of carbon stored in a given area.
   * *Key Achievement:* Gathering data from any and all available sources.
+
+### 📊 GitHub Metrics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
