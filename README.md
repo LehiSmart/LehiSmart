@@ -1,40 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+I'm currently a computer science student at Aberystwyth university. <br>I love working on projects that directly focus on the environment, agriculture and how tech interacts with the natural world.<br>
 
-<!--
-**LehiSmart/LehiSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LehiSmart&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LehiSmart&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LehiSmart&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LehiSmart&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##A computer science student at Aberystwyth university with a deep interest for the environment and how to apply technology/software to it.
+---
+[![](https://visitcount.itsvg.in/api?id=LehiSmart&icon=0&color=6)](https://visitcount.itsvg.in)
 
-### 🛠️ Technical Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, HTML/CSS |
-| **Frameworks** | React, Node.js, TailwindCSS |
-| **Tools/DevOps** | Git, Docker, GitHub Actions |
-| **Databases** | PostgreSQL, Supabase |
-
-### 🚀 Featured Projects
-
-* **[Fullstack Recipe Finder](https://github.com/LehiSmart/fullstack-recipe)**: A full-stack application that solves the hassle of finding food recipes with leftover ingredients. 
-  * *Key Achievement:* Implementing AI to come up with creative recipes rather than rely on the API.
-* **[Carbon Tracker](https://github.com/LehiSmart/CarbonTracker)**: A web app i built that uses satellite data, paired with AI to determin the total amount of carbon stored in a given area.
-  * *Key Achievement:* Gathering data from any and all available sources.
-
-### 📊 GitHub Metrics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LehiSmart&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LehiSmart&layout=compact&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
