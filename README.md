@@ -6,7 +6,7 @@ Final-year Computer Science student at Aberystwyth University, building toward r
  
 **Student Gigs** - a fixed-scope freelance marketplace connecting Aberystwyth students with local businesses (order, pay via Stripe Connect, held funds released on completion).
 Stack: Next.js · Supabase · Vercel · Stripe Connect
-Shipping: targeting December 2026 — repo goes public as soon as there's a working v1.
+Shipping: targeting December 2026 - repo goes public as soon as there's a working v1.
 [See Work](https://github.com/LehiSmart/student-gig-app)
  
 I'm building this to have something real behind my applications before I graduate, not as a class exercise. It'll have actual users, not just a demo.
