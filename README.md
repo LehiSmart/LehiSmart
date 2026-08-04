@@ -1,19 +1,33 @@
-# 💫 About Me:
-I'm currently a computer science student at Aberystwyth university. <br>I love working on projects that directly focus on the environment, agriculture and how tech interacts with the natural world.<br>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LehiSmart&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LehiSmart&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LehiSmart&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LehiSmart&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+# Hi, I'm Lehi 👋
+ 
+Final-year Computer Science student at Aberystwyth University, building toward remote-first software work - with a particular pull toward tech that touches the environment and agriculture.
+ 
+## 🚧 Currently building
+ 
+**Student Gigs** - a fixed-scope freelance marketplace connecting Aberystwyth students with local businesses (order, pay via Stripe Connect, held funds released on completion).
+Stack: Next.js · Supabase · Vercel · Stripe Connect
+Shipping: targeting December 2026 — repo goes public as soon as there's a working v1.
+[See Work](https://github.com/LehiSmart/student-gig-app)
+ 
+I'm building this to have something real behind my applications before I graduate, not as a class exercise. It'll have actual users, not just a demo.
+ 
+## 🌱 What pulls my interest
+ 
+The intersection of software and the natural world — environmental data, agri-tech, sustainability tooling. Longer-term I want work that lets me build in that space, remotely, without giving up decent pay.
+ 
+I'm also studying Japanese (JLPT track) and applying to the Daiwa Anglo-Japanese Foundation Scholarship for 2027.
+ 
+## 🧰 Tools I actually use
+ 
+`Python` `Java` `C` `JavaScript` `HTML/CSS` `Tailwind CSS` `Next.js` `Supabase`
+ 
+## 📌 Pinned projects
+ 
+*Nothing pinned yet*
+ 
+## 📫 Reach me
+ 
+[LinkedIn](https://www.linkedin.com/in/lehi-smart-a98665207) · [Email](mailto:smart.lehi1311@gmail.com)
+ 
 ---
-![](https://komarev.com/ghpvc/?username=LehiSmart)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+ 
