@@ -23,7 +23,7 @@ I'm also studying Japanese (JLPT track) and applying to the Daiwa Anglo-Japanese
  
 ## Pinned projects
 
- [![Pinned Repo](https://student-gig-app.vercel.app)](https://github.com/LehiSmart)
+ [![Student-Gigs](https://student-gig-app.vercel.app)]
 *Nothing pinned yet*
  
 ## Reach me
