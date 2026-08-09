@@ -23,8 +23,9 @@ I'm also studying Japanese (JLPT track) and applying to the Daiwa Anglo-Japanese
  
 ## Pinned projects
 
- ![Student-Gigs](https://github.com/LehiSmart)(https://student-gig-app.vercel.app)
-*Nothing pinned yet*
+ ![Student Gigs Web-app](https://github.com/LehiSmart)(https://student-gig-app.vercel.app)
+ ![Computer Vision Tracking](https://github.com/LehiSmart)(https://lehismart.github.io/onlineCV/handTracking.html)
+ ![JavaFX Card Game](https://github.com/LehiSmart)(https://lehismart.github.io/onlineCV/javaCards.html)
  
 ## Reach me
  
