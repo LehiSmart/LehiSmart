@@ -13,7 +13,7 @@ I'm building this to have something real behind my applications before I graduat
  
 ## What pulls my interest
  
-The intersection of software and the natural world — environmental data, agri-tech, sustainability tooling. Longer-term I want work that lets me build in that space, remotely, without giving up decent pay.
+The intersection of software and the natural world - environmental data, agri-tech, sustainability tooling. Longer-term I want work that lets me build in that space, remotely, without giving up decent pay.
  
 I'm also studying Japanese (JLPT track) and applying to the Daiwa Anglo-Japanese Foundation Scholarship for 2027.
  
