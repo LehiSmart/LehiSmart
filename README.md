@@ -22,7 +22,8 @@ I'm also studying Japanese (JLPT track) and applying to the Daiwa Anglo-Japanese
 `Python` `Java` `C` `JavaScript` `HTML/CSS` `Tailwind CSS` `Next.js` `Supabase`
  
 ## Pinned projects
- 
+
+ [![Pinned Repo](https://student-gig-app.vercel.app)](https://github.com/LehiSmart)
 *Nothing pinned yet*
  
 ## Reach me
